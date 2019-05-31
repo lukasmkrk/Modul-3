@@ -1,3 +1,13 @@
-.info{
-  color:red;
+/*Global*/
+
+*, *::before, *::after{
+    box-sizing:border-box;
+}
+
+body{
+    margin:0;
+    font-size:16px;
+    line-height:25px;
+    font-family: 'Inconsolata', monospace;
+    color: #2c2c54;
 }
