@@ -20,6 +20,19 @@ body{
   }
 
 /*Menu*/
-.name{
+
+.sub-menu{
   display:inline-block;
+  margin:0 36px;
+  padding: 5px;
+}
+
+.menu ul li {
+  list-style-type: none;
+  position:relative;
+  display:none;
+}
+
+.sub-menu a{
+  text-decoration:none;
 }
