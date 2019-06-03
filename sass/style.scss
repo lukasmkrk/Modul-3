@@ -29,28 +29,16 @@ body{
 
 .btn{
     min-width:200px;
-    border: none;
     background-color: yellow;
+    margin: 24px px auto 0 auto;
+    padding: 16px;
+    font-family: 'Rubik';
+    font-size: 20px;
   }
-
-  min-width:160px;
-  margin:24px auto 0 auto;
-  padding:16px;
-  font-family:
-  font-size:16px;
-  text-align:center;
-  text-decoration:none;
-  border-width:2px;
-  border-style:solid;
-  background-color:yellow;
-  background-position:100% 0;
-
-
-
 
 .btn-one{
       border-color:none;
-      color:yellow;
+      color:white;
   }
 
 /*Menu Navigation*/
@@ -103,4 +91,10 @@ li ul{
 .splash{
   margin:100px 0;
   padding:0;
+}
+
+.sub-title{
+  margin:
+  font-family: 'Rubik';
+  font-size: 5px;
 }
